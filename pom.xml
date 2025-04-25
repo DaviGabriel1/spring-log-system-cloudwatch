@@ -56,6 +56,11 @@
 			<version>5.14.2</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>aws-java-sdk-logs</artifactId>
+			<version>1.12.765</version>
+		</dependency>
 		<!--<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
